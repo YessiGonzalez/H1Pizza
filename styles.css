@@ -1,3 +1,21 @@
-hi{
-    
+h1{
+  text-align: center;
+  font-size: x-large;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+.container{
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.main-child{
+
+}
+
+#pizza{
+    width: 250px;
+}
+
+#burger {
+    width:250px;
 }
