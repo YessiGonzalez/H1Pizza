@@ -5,17 +5,19 @@ h1{
 }
 .container{
     display: flex;
-    /* flex-direction: column; */
+    justify-content: center;
 }
 
 .main-child{
-
+    margin-left: auto;
+    border: 3px solid #f8d302;
+    padding: 1%
 }
 
 #pizza{
-    width: 250px;
+    width: 100%;
 }
 
 #burger {
-    width:250px;
+    width:100%;
 }
